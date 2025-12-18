@@ -36,7 +36,7 @@ object AppModule {
     }
 
     // Base URL for retrofit
-    private const val BASE_URL = "https://webview.free.beeceptor.com/"
+    private const val BASE_URL = "ENTER YOUR API"
 
     // Retrofit
     @Provides
